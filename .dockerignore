@@ -1,0 +1,18 @@
+.git
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+.DS_Store
+.env
+
+# Local and training artifacts not needed by the Railway runtime image.
+uploads/*
+Pothole-Detection--10/
+Pothole-detection-system-1/
+Pothole_Detection_Colab.ipynb
+New Text Document.txt
+yolov8s.pt
+pothole_best.pt
